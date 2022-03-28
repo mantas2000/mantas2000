@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mantas.
+## Hi there <img src="https://raw.githubusercontent.com/mantas2000/mantas2000/master/wave.gif" width="30px">, I'm Mantas.
 ![](https://visitor-badge.laobi.icu/badge?page_id=mantas2000)
 [![Github](https://img.shields.io/github/followers/mantas2000?label=Followers&logo=Github)](https://github.com/mantas2000)
 
