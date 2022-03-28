@@ -1,11 +1,10 @@
-## Hi there <img src="https://raw.githubusercontent.com/mantas2000/mantas2000/master/wave.gif" width="30px">, I'm Mantas.
+# Hi there <img src="https://raw.githubusercontent.com/mantas2000/mantas2000/master/wave.gif" width="30px">, I'm Mantas.
 <p>
   <img src="https://komarev.com/ghpvc/?username=mantas2000&style=for-the-badge" height="24" />
   <img src="https://img.shields.io/github/followers/mantas2000?style=for-the-badge&label=Followers&logo=Github" height="24" /> 
 </p>
 
 ## 👨🏻‍💻 About Me
-
 - 🔭 &nbsp; I'm currently developing a cross-web extension that removes disturbing content on social media using Machine Learning.
 - 👀 &nbsp; I'm interested in exploring new technologies and trying new things.
 - 🌱 &nbsp; I'm currently learning JavaScript, React & TensorFlow.
@@ -13,9 +12,7 @@
 - 💼 &nbsp; I'm seeking for a Software Engineer job.
 - 🏎️ &nbsp; Fun Fact: I'm F1 Enthusiast.
 
-
 ## 🔧 Technologies & Tools
-
 <p>
   - 👩‍💻 Programming Languages: &nbsp;
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="24" valign="bottom" />
@@ -64,19 +61,20 @@
 </p>
 
 ## 🤝🏻 Connect with Me
-
 <p align="left">
   &nbsp; <a href="https://www.linkedin.com/in/mantas-burcikas/" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
          </a>
   &nbsp; <a href="mailto:mantas.burcikas.2000@gmail.com" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+         </a>
+    &nbsp; <a href="https://github.com/mantas2000" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="30" />
          </a>
 </p>
 
 
 ## 📈 My GitHub Stats:
-
 <p>
   <div>
     <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
