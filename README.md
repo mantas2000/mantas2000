@@ -1,8 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/mantas2000/mantas2000/master/wave.gif" width="30px">, I'm Mantas.
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mantas2000&style=for-the-badge" height="24" />
-  <img src="https://img.shields.io/github/followers/mantas2000?style=for-the-badge&label=Followers&logo=Github" height="24" /> 
-</p>
+![Header](./header-image.png)
 
 ## 👨🏻‍💻 About Me
 - 🔭 &nbsp; I'm currently developing a cross-web extension that removes disturbing content on social media using Machine Learning.
