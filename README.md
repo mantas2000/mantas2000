@@ -1,6 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/mantas2000/mantas2000/master/wave.gif" width="30px">, I'm Mantas.
-![](https://visitor-badge.laobi.icu/badge?page_id=mantas2000)
-[![Github](https://img.shields.io/github/followers/mantas2000?label=Followers&logo=Github)](https://github.com/mantas2000)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mantas2000&style=for-the-badge" height="24" />
+  <img src="https://img.shields.io/github/followers/mantas2000?style=for-the-badge&label=Followers&logo=Github" height="24" /> 
+</p>
 
 ## 👨🏻‍💻 About Me
 
