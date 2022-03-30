@@ -63,7 +63,7 @@
       <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mantas2000&count_private=true&show_icons=true&theme=tokyonight" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantas2000&hide=php&theme=tokyonight" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantas2000&count_private=true&theme=tokyonight" />
     </a>
   </div>
 </p>
