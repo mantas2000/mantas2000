@@ -47,14 +47,16 @@
   &nbsp; <a href="https://www.linkedin.com/in/mantas-burcikas/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
          </a>
+  &nbsp; <a href="https://mantas2000.github.io/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30" />
+         </a>
   &nbsp; <a href="mailto:mantas.burcikas.2000@gmail.com" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
          </a>
-    &nbsp; <a href="https://github.com/mantas2000" target="_blank" rel="noopener noreferrer">
+  &nbsp; <a href="https://github.com/mantas2000" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="30" />
          </a>
 </p>
-
 
 ## 📈 My GitHub Stats:
 <p>
