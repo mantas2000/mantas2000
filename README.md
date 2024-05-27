@@ -1,13 +1,5 @@
 ![Header](./header-image.png)
 
-## 👨🏻‍💻 About Me
-- 🔭 &nbsp; I'm currently developing a cross-web extension that removes disturbing content on social media using Machine Learning.
-- 👀 &nbsp; I'm interested in exploring new technologies and trying new things.
-- 🌱 &nbsp; I'm currently learning JavaScript, React & TensorFlow.
-- 🎓 &nbsp; I'm a final-year Computer Science student at Newcastle University, UK.
-- 💼 &nbsp; I'm seeking for a Software Engineer job.
-- 🏎️ &nbsp; Fun Fact: I'm F1 Enthusiast.
-
 ## 🔧 Technologies & Tools
 - 👩‍💻 Programming Languages: &nbsp;
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="24" valign="bottom" />
